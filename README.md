@@ -1,6 +1,6 @@
 # Welcome to Jayaseelan Subramani profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<a href="www.linkedin.com/in/jayaseelan-subramani" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
+<a href="https://www.linkedin.com/in/jayaseelan-subramani" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
 &nbsp;
 <a href="" target="_blank"><img width="48" height="48" src="https://img.icons8.com/fluency/48/twitter.png" alt="twitter"/></a>
 &nbsp;
